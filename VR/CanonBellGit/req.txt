@@ -1,0 +1,22 @@
+Physics project
+
+Bell hanging from a fixed thing
+Inside the bell there is a clapper
+If anything hits the bell, the bell should ring
+If the clapper hits the bell, the bell should ring
+3 joints on the bell
+detect collisions between bell and clapper
+
+force field in front of bell
+doesn't let anything hit the bell
+if you hit it enough times and hard enough, it breaks
+
+in front of force field -> wall made of bricks
+
+in front of wall -> cannon
+shoots cannon balls, to break wall (force field)
+hits bell, makes it ring
+
+have other cannons that try to hit the shot ball and deflect it
+
+
